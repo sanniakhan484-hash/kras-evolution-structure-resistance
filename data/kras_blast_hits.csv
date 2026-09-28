@@ -1,0 +1,101 @@
+accession,description,organism,score,e_value,identity_pct,query_cover_pct,is_viral
+P01116,ref|NP_001356715.1| GTPase KRas isoform a [Homo sapiens],Homo sapiens,1003.0,3.8745e-140,100.0,100.0,False
+P08644,sp|P08644.3| RecName: Full=GTPase KRas; AltName: Full=K-Ras 2; AltName: Full=Ki-,Rattus norvegicus,998.0,2.50294e-139,98.9,100.0,False
+P01117,sp|P01117.1| RecName: Full=GTPase KRas; AltName: Full=Ki-Ras; AltName: Full=Tran,Kirsten murine sarcoma virus,982.0,5.97926e-137,96.8,100.0,True
+P05774,sp|P05774.1| RecName: Full=Ras-like protein [Carassius auratus],Carassius auratus,886.0,2.1971e-122,95.6,96.8,False
+P23175,sp|P23175.1| RecName: Full=GTPase HRas; AltName: Full=Transforming protein p21/H,NS.C58 murine sarcoma virus,861.0,1.71809e-118,86.2,99.5,True
+P01113,sp|P01113.1| RecName: Full=GTPase HRas; AltName: Full=Transforming protein p21/H,Moloney murine sarcoma virus,858.0,6.26792e-118,85.7,99.5,True
+P01115,sp|P01115.1| RecName: Full=Transforming protein p29; Contains: RecName: Full=Tra,Harvey murine sarcoma virus,859.0,2.28393e-117,85.7,99.5,True
+P01114,sp|P01114.1| RecName: Full=Transforming protein p29; Contains: RecName: Full=Tra,Rasheed rat sarcoma virus,852.0,3.46566e-116,85.2,99.5,True
+P08642,sp|P08642.1| RecName: Full=GTPase HRas; AltName: Full=H-Ras-1; AltName: Full=Tra,Gallus gallus,826.0,4.23381e-113,88.4,99.5,False
+P79800,sp|P79800.1| RecName: Full=GTPase KRas; AltName: Full=K-Ras 2; AltName: Full=Ki-,Meleagris gallopavo,824.0,7.15248e-113,90.5,100.0,False
+Q91806,sp|Q91806.1| RecName: Full=GTPase NRas; AltName: Full=Transforming protein N-Ras,Xenopus laevis,823.0,1.17393e-112,88.4,100.0,False
+Q5F352,sp|Q5F352.1| RecName: Full=GTPase NRas; AltName: Full=Transforming protein N-Ras,Gallus gallus,822.0,1.4618e-112,87.9,100.0,False
+Q04970,sp|Q04970.1| RecName: Full=GTPase NRas; AltName: Full=Transforming protein N-Ras,Rattus norvegicus,817.0,8.73276e-112,87.4,100.0,False
+P12825,sp|P12825.1| RecName: Full=GTPase NRas; AltName: Full=Transforming protein N-Ras,Cavia porcellus,814.0,2.5859e-111,86.8,100.0,False
+P01111,sp|P01111.1| RecName: Full=GTPase NRas; AltName: Full=Transforming protein N-Ras,Homo sapiens,814.0,2.85412e-111,86.8,100.0,False
+P01112,sp|P01112.1| RecName: Full=GTPase HRas; AltName: Full=H-Ras-1; AltName: Full=Ha-,Homo sapiens,813.0,3.59317e-111,86.8,99.5,False
+P08556,sp|P08556.1| RecName: Full=GTPase NRas; AltName: Full=Transforming protein N-Ras,Mus musculus,813.0,4.00958e-111,87.4,100.0,False
+Q95ME4,sp|Q95ME4.1| RecName: Full=GTPase NRas; AltName: Full=Transforming protein N-Ras,Monodelphis domestica,812.0,4.88447e-111,86.8,100.0,False
+Q5RD87,sp|Q5RD87.1| RecName: Full=GTPase NRas; AltName: Full=Transforming protein N-Ras,Pongo abelii,808.0,2.44817e-110,86.3,100.0,False
+Q9YH38,sp|Q9YH38.1| RecName: Full=GTPase KRas; AltName: Full=Ki-Ras; Short=K-ras; Flags,Cyprinus carpio,804.0,8.07358e-110,97.0,87.8,False
+O42277,sp|O42277.1| RecName: Full=GTPase KRas; AltName: Full=Ki-Ras; Short=K-ras; Flags,Oryzias latipes,801.0,2.49772e-109,96.4,87.8,False
+Q07983,sp|Q07983.1| RecName: Full=GTPase KRas; AltName: Full=K-Ras 2; AltName: Full=Ki-,Monodelphis domestica,801.0,2.52526e-109,96.4,88.4,False
+Q05147,sp|Q05147.1| RecName: Full=GTPase KRas; AltName: Full=Ki-Ras; Short=K-ras; Flags,Xenopus laevis,797.0,1.05997e-108,95.2,88.4,False
+Q5EFX7,sp|Q5EFX7.1| RecName: Full=GTPase KRas; AltName: Full=Ki-Ras; Short=K-ras; Flags,Kryptolebias marmoratus,793.0,3.74714e-108,96.4,87.8,False
+P79737,sp|P79737.1| RecName: Full=GTPase NRas; AltName: Full=Transforming protein N-Ras,Danio rerio,785.0,7.23286e-107,85.3,100.0,False
+P18262,sp|P18262.1| RecName: Full=Ras-like protein; Flags: Precursor [Artemia salina],Artemia salina,734.0,3.32668e-99,77.0,94.2,False
+B4JFU8,sp|B4JFU8.1| RecName: Full=Ras-like protein 1; Flags: Precursor [Drosophila grim,Drosophila grimshawi,709.0,2.79163e-95,78.3,100.0,False
+B4NJ72,sp|B4NJ72.1| RecName: Full=Ras-like protein 1; Flags: Precursor [Drosophila will,Drosophila willistoni,703.0,2.58109e-94,77.8,100.0,False
+B4LY29,sp|B4LY29.1| RecName: Full=Ras-like protein 1; Flags: Precursor [Drosophila viri,Drosophila virilis,701.0,4.31954e-94,77.8,100.0,False
+B3M185,sp|B3M185.1| RecName: Full=Ras-like protein 1; Flags: Precursor [Drosophila anan,Drosophila ananassae,696.0,2.30897e-93,85.5,87.3,False
+B4GFJ8,sp|B4GFJ8.1| RecName: Full=Ras-like protein 1; Flags: Precursor [Drosophila pers,Drosophila persimilis,691.0,1.58778e-92,76.7,100.0,False
+P22981,sp|P22981.1| RecName: Full=Ras protein let-60; AltName: Full=Abnormal cell linea,Caenorhabditis elegans,685.0,1.03889e-91,74.6,100.0,False
+B4KB60,sp|B4KB60.1| RecName: Full=Ras-like protein 1; Flags: Precursor [Drosophila moja,Drosophila mojavensis,676.0,1.99391e-90,77.2,100.0,False
+P15064,sp|P15064.1| RecName: Full=Ras-like protein rasG; Flags: Precursor [Dictyosteliu,Dictyostelium discoideum,645.0,1.73954e-85,70.5,100.0,False
+P34729,sp|P34729.1| RecName: Full=Ras-like protein 1; Flags: Precursor [Badhamia polyce,Badhamia polycephala,627.0,7.91306e-83,75.3,87.3,False
+P34726,sp|P34726.1| RecName: Full=Ras-like protein 2; Flags: Precursor [Badhamia polyce,Badhamia polycephala,607.0,9.53827e-80,74.4,86.2,False
+P03967,sp|P03967.2| RecName: Full=Ras-like protein rasD; AltName: Full=Transforming pro,Dictyostelium discoideum,600.0,1.09176e-78,64.9,100.0,False
+P51539,sp|P51539.2| RecName: Full=Ras-like protein RAS1; Flags: Precursor [Hydra vulgar,Hydra vulgaris,593.0,1.38578e-77,72.8,85.7,False
+P32253,sp|P32253.1| RecName: Full=Ras-like protein rasC; Flags: Precursor [Dictyosteliu,Dictyostelium discoideum,566.0,1.83953e-73,59.4,97.9,False
+P32254,sp|P32254.1| RecName: Full=Ras-like protein rasS; Flags: Precursor [Dictyosteliu,Dictyostelium discoideum,546.0,2.31872e-70,57.1,97.9,False
+P22280,sp|P22280.1| RecName: Full=Ras-like protein 3; Flags: Precursor [Mucor lusitanic,Mucor lusitanicus,546.0,2.54938e-70,67.5,87.3,False
+P22278,sp|P22278.1| RecName: Full=Ras-like protein 1; Flags: Precursor [Mucor lusitanic,Mucor lusitanicus,546.0,3.03882e-70,65.2,93.7,False
+P22279,sp|P22279.2| RecName: Full=Ras-like protein 2; Flags: Precursor [Mucor lusitanic,Mucor lusitanicus,541.0,1.53416e-69,62.0,87.3,False
+Q12526,sp|Q12526.2| RecName: Full=Ras-like protein; Flags: Precursor [Aspergillus nidul,Aspergillus nidulans FGSC A4,542.0,1.59195e-69,68.3,87.8,False
+O93856,sp|O93856.1| RecName: Full=Ras-like protein; Flags: Precursor [Laccaria bicolor],Laccaria bicolor,539.0,3.35165e-69,57.8,100.0,False
+P32252,sp|P32252.1| RecName: Full=Ras-like protein rasB; Flags: Precursor [Dictyosteliu,Dictyostelium discoideum,537.0,6.1481e-69,60.3,99.5,False
+P22126,sp|P22126.1| RecName: Full=Protein ras-1; Flags: Precursor [Neurospora crassa OR,Neurospora crassa OR74A,537.0,7.75143e-69,70.1,86.2,False
+C4YKT4,sp|C4YKT4.1| RecName: Full=Ras-like protein 1; AltName: Full=Ras homolog type B;,Candida albicans WO-1,544.0,7.78219e-69,65.5,93.1,False
+P0CY32,sp|P0CY32.1| RecName: Full=Ras-like protein 1; AltName: Full=Ras homolog type B;,Candida albicans,544.0,8.2652e-69,65.5,93.1,False
+O42785,sp|O42785.1| RecName: Full=Ras-like protein; AltName: Full=Ct-Ras; Flags: Precur,Colletotrichum trifolii,535.0,2.13851e-68,68.3,87.8,False
+G4MZY8,sp|G4MZY8.1| RecName: Full=Ras-like protein 2; Flags: Precursor [Pyricularia ory,Pyricularia oryzae 70-15,534.0,2.71917e-68,68.3,87.8,False
+Q18246,sp|Q18246.1| RecName: Full=Ras-related protein Rap-1 [Caenorhabditis elegans],Caenorhabditis elegans,530.0,4.70897e-68,53.4,100.0,False
+P87018,sp|P87018.1| RecName: Full=Ras-like protein; Flags: Precursor [Botrytis cinerea],Botrytis cinerea,530.0,8.57058e-68,67.1,87.8,False
+Q94694,sp|Q94694.1| RecName: Full=Ras-related protein Rap-1; AltName: Full=Pprap1; Flag,Badhamia polycephala,524.0,3.25843e-67,54.9,95.8,False
+Q6TEN1,sp|Q6TEN1.1| RecName: Full=Ras-related protein Rap-1b; Flags: Precursor [Danio r,Danio rerio,521.0,8.53779e-67,58.1,87.3,False
+Q640R7,sp|Q640R7.1| RecName: Full=Ras-related protein Rap-1b; Flags: Precursor [Xenopus,Xenopus tropicalis,520.0,1.19806e-66,58.1,87.3,False
+P08645,sp|P08645.2| RecName: Full=Ras-related protein Rap1; AltName: Full=Rap1 GTPase; ,Drosophila melanogaster,518.0,2.33342e-66,58.2,86.8,False
+A5A6J7,sp|A5A6J7.1| RecName: Full=Ras-related protein Rap-1b; Flags: Precursor [Pan tro,Pan troglodytes,517.0,4.39801e-66,57.5,87.3,False
+P28775,sp|P28775.1| RecName: Full=Ras-like protein; Flags: Precursor [Lentinula edodes],Lentinula edodes,519.0,4.68746e-66,66.5,87.8,False
+Q62636,sp|Q62636.2| RecName: Full=Ras-related protein Rap-1b; AltName: Full=GTP-binding,Rattus norvegicus,516.0,4.7998e-66,57.5,87.3,False
+Q9YH37,sp|Q9YH37.1| RecName: Full=Ras-related protein Rap-1b; Flags: Precursor [Cyprinu,Cyprinus carpio,516.0,4.85253e-66,57.5,87.3,False
+P22123,sp|P22123.1| RecName: Full=Ras-related protein O-Krev; Flags: Precursor [Diploba,Diplobatis ommata,516.0,5.01425e-66,58.1,87.3,False
+Q60529,sp|Q60529.1| RecName: Full=GTPase HRas; AltName: Full=H-Ras-1; AltName: Full=Tra,Mesocricetus auratus,508.0,5.39144e-66,99.0,50.8,False
+P62833,sp|P62833.1| RecName: Full=Ras-related protein Rap-1A; AltName: Full=GTP-binding,Bos taurus,515.0,6.66185e-66,58.1,87.3,False
+A8NU18,sp|A8NU18.3| RecName: Full=24 kDa Ras-like protein; Flags: Precursor [Coprinopsi,Coprinopsis cinerea okayama7#130,517.0,9.75861e-66,65.3,87.8,False
+P08647,sp|P08647.2| RecName: Full=Ras-like protein 1; Flags: Precursor [Schizosaccharom,Schizosaccharomyces pombe 972h-,516.0,1.47099e-65,65.9,87.8,False
+P18613,sp|P18613.1| RecName: Full=Ras-related protein rapA; AltName: Full=Ras-related p,Dictyostelium discoideum,505.0,2.70183e-64,56.3,87.3,False
+A6NIZ1,sp|A6NIZ1.1| RecName: Full=Ras-related protein Rap-1b-like protein; Flags: Precu,Homo sapiens,503.0,4.82653e-64,57.0,86.2,False
+P38976,sp|P38976.1| RecName: Full=Ras-like protein RAS2; Flags: Precursor [Hydra vulgar,Hydra vulgaris,502.0,9.2439e-64,59.6,94.7,False
+P48555,sp|P48555.2| RecName: Full=Ras-related protein Ral-a; Flags: Precursor [Drosophi,Drosophila melanogaster,500.0,2.10297e-63,55.6,85.2,False
+Q01387,sp|Q01387.2| RecName: Full=Protein ras-2; Flags: Precursor [Neurospora crassa OR,Neurospora crassa OR74A,493.0,6.15225e-62,48.9,98.4,False
+P0CQ42,sp|P0CQ42.1| RecName: Full=Ras-like protein; Flags: Precursor [Cryptococcus dene,Cryptococcus deneoformans JEC21,491.0,1.04873e-61,59.9,95.8,False
+P11233,sp|P11233.1| RecName: Full=Ras-related protein Ral-A; Flags: Precursor [Homo sap,Homo sapiens,488.0,1.66266e-61,53.3,87.8,False
+P63320,sp|P63320.1| RecName: Full=Ras-related protein Ral-A; Flags: Precursor [Saguinus,Saguinus oedipus,486.0,3.45319e-61,53.3,87.8,False
+P01120,sp|P01120.4| RecName: Full=Ras-like protein 2; Flags: Precursor [Saccharomyces c,Saccharomyces cerevisiae S288C,495.0,4.49182e-61,64.4,85.7,False
+P22124,sp|P22124.1| RecName: Full=Ras-related protein O-RAL; Flags: Precursor [Diplobat,Diplobatis ommata,482.0,1.64293e-60,52.2,93.1,False
+P01119,sp|P01119.2| RecName: Full=Ras-like protein 1; Flags: Precursor [Saccharomyces c,Saccharomyces cerevisiae S288C,488.0,4.11551e-60,63.2,85.7,False
+Q55CB8,sp|Q55CB8.1| RecName: Full=Ras-like protein rasX; Flags: Precursor [Dictyosteliu,Dictyostelium discoideum,478.0,6.63729e-60,53.2,90.5,False
+Q91079,sp|Q91079.1| RecName: Full=Ras-like protein [Limanda limanda],Limanda limanda,463.0,2.96222e-59,95.7,48.7,False
+P04388,sp|P04388.2| RecName: Full=Ras-like protein 2; Flags: Precursor [Drosophila mela,Drosophila melanogaster,470.0,7.13254e-59,54.9,100.0,False
+Q4R379,sp|Q4R379.1| RecName: Full=Ras-related protein Ral-B; Flags: Precursor [Macaca f,Macaca fascicularis,468.0,1.82562e-58,52.7,87.3,False
+P11234,sp|P11234.1| RecName: Full=Ras-related protein Ral-B; Flags: Precursor [Homo sap,Homo sapiens,468.0,2.39757e-58,52.7,87.3,False
+P36860,sp|P36860.1| RecName: Full=Ras-related protein Ral-B; Flags: Precursor [Rattus n,Rattus norvegicus,467.0,2.70302e-58,51.7,93.1,False
+Q9JIW9,sp|Q9JIW9.1| RecName: Full=Ras-related protein Ral-B; Flags: Precursor [Mus musc,Mus musculus,467.0,3.1832e-58,51.7,93.1,False
+P70426,sp|P70426.1| RecName: Full=GTP-binding protein Rit1; AltName: Full=Ras-like prot,Mus musculus,467.0,3.74279e-58,52.4,86.2,False
+Q55CA9,sp|Q55CA9.1| RecName: Full=Ras-like protein rasZ; Flags: Precursor [Dictyosteliu,Dictyostelium discoideum,465.0,7.50646e-58,53.1,85.2,False
+Q9YH09,sp|Q9YH09.1| RecName: Full=Ras-related protein ralB-A; AltName: Full=XRalB-A; Fl,Xenopus laevis,464.0,7.86663e-58,52.7,87.3,False
+Q55CC0,sp|Q55CC0.1| RecName: Full=Ras-like protein rasW; Flags: Precursor [Dictyosteliu,Dictyostelium discoideum,465.0,8.24841e-58,52.3,87.3,False
+Q55CB7,sp|Q55CB7.1| RecName: Full=Ras-like protein rasY; Flags: Precursor [Dictyosteliu,Dictyostelium discoideum,464.0,1.16888e-57,50.0,92.6,False
+Q6IP71,sp|Q6IP71.1| RecName: Full=Ras-related protein ralB-B; AltName: Full=XRalB-B; Fl,Xenopus laevis,462.0,1.98675e-57,52.1,87.3,False
+Q92963,sp|Q92963.1| RecName: Full=GTP-binding protein Rit1; AltName: Full=Ras-like prot,Homo sapiens,463.0,2.02499e-57,52.4,86.2,False
+P62070,sp|P62070.1| RecName: Full=Ras-related protein R-Ras2; AltName: Full=Ras-like pr,Homo sapiens,458.0,7.53535e-57,53.3,98.9,False
+P70425,sp|P70425.1| RecName: Full=GTP-binding protein Rit2; AltName: Full=Ras-like prot,Mus musculus,455.0,2.28152e-56,53.0,86.2,False
+Q5BJQ5,sp|Q5BJQ5.1| RecName: Full=GTP-binding protein Rit2 [Rattus norvegicus],Rattus norvegicus,453.0,5.16297e-56,53.0,86.2,False
+Q4X241,sp|Q4X241.1| RecName: Full=Ras-like protein B [Aspergillus fumigatus Af293],Aspergillus fumigatus Af293,454.0,7.80122e-56,51.9,85.2,False
+Q99578,sp|Q99578.1| RecName: Full=GTP-binding protein Rit2; AltName: Full=Ras-like prot,Homo sapiens,451.0,1.11847e-55,52.4,86.2,False
+P13856,sp|P13856.1| RecName: Full=Ras-related protein RSR1; Flags: Precursor [Saccharom,Saccharomyces cerevisiae S288C,437.0,6.60871e-53,47.1,91.0,False
+G4N1S3,sp|G4N1S3.1| RecName: Full=Ras-like protein 1; Flags: Precursor [Pyricularia ory,Pyricularia oryzae 70-15,434.0,7.78257e-53,51.9,86.8,False
+P10301,sp|P10301.1| RecName: Full=Ras-related protein R-Ras; AltName: Full=p23; Flags: ,Homo sapiens,430.0,1.51665e-52,51.8,98.4,False
+P10833,sp|P10833.1| RecName: Full=Ras-related protein R-Ras; AltName: Full=p23; Flags: ,Mus musculus,426.0,7.34037e-52,51.3,98.4,False
