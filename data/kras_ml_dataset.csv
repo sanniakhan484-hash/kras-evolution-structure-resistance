@@ -1,0 +1,200 @@
+title,ref_aa,position,alt_aa,clinical_significance,label,kras_position,entropy,in_pocket,hydrophobicity_change,is_glycine_lost
+NM_004985.5(KRAS):c.182_183delinsGC (p.Gln61Arg),Q,61.0,R,Pathogenic,1,61.0,-0.0,1,1.0,0
+NM_004985.5(KRAS):c.380C>A (p.Thr127Lys),T,127.0,K,Uncertain significance,0,127.0,0.5489544344250401,0,3.2,0
+NM_004985.5(KRAS):c.431C>T (p.Thr144Ile),T,144.0,I,Likely pathogenic,1,144.0,-0.0,0,5.2,0
+NM_033360.4(KRAS):c.539G>A (p.Cys180Tyr),C,180.0,Y,Uncertain significance,0,180.0,1.543751954420502,0,3.8,0
+NM_033360.4(KRAS):c.544A>G (p.Lys182Glu),K,182.0,E,Uncertain significance,0,182.0,2.341446071165522,0,0.3999999999999999,0
+NM_004985.5(KRAS):c.489T>G (p.Ile163Met),I,163.0,M,Uncertain significance,0,163.0,-0.0,0,2.6,0
+NM_004985.5(KRAS):c.504A>C (p.Glu168Asp),E,168.0,D,Uncertain significance,0,168.0,1.272905595320056,0,0.0,0
+NM_004985.5(KRAS):c.563T>G (p.Met188Arg),M,188.0,R,Uncertain significance,0,188.0,1.979411019776041,0,6.4,0
+NM_004985.5(KRAS):c.362C>G (p.Pro121Arg),P,121.0,R,Uncertain significance,0,121.0,0.4689955935892812,0,2.9,0
+NM_033360.4(KRAS):c.536G>A (p.Gly179Asp),G,179.0,D,Uncertain significance,0,179.0,1.7128876215181603,0,3.1,1
+NM_004985.5(KRAS):c.457G>C (p.Asp153His),D,153.0,H,Likely pathogenic,1,153.0,0.9182958340544896,0,0.2999999999999998,0
+NM_004985.5(KRAS):c.454G>A (p.Val152Ile),V,152.0,I,Likely pathogenic,1,152.0,0.2761954276479391,0,0.2999999999999998,0
+NM_033360.4(KRAS):c.524A>G (p.Glu175Gly),E,175.0,G,Uncertain significance,0,175.0,1.7821867602485986,0,3.1,0
+NM_004985.5(KRAS):c.422T>A (p.Phe141Tyr),F,141.0,Y,Uncertain significance,0,141.0,0.5916727785823275,0,4.1,0
+NM_004985.5(KRAS):c.388G>T (p.Ala130Ser),A,130.0,S,Uncertain significance,0,130.0,-0.0,0,2.6,0
+NM_004985.5(KRAS):c.138T>G (p.Ile46Met),I,46.0,M,Uncertain significance,0,46.0,-0.0,0,2.6,0
+NM_004985.5(KRAS):c.176C>A (p.Ala59Glu),A,59.0,E,Uncertain significance,0,59.0,-0.0,1,5.3,0
+NM_004985.5(KRAS):c.242T>C (p.Val81Ala),V,81.0,A,Uncertain significance,0,81.0,-0.0,0,2.4000000000000004,0
+NM_004985.5(KRAS):c.326T>C (p.Val109Ala),V,109.0,A,Uncertain significance,0,109.0,-0.0,0,2.4000000000000004,0
+NM_004985.5(KRAS):c.562A>G (p.Met188Val),M,188.0,V,Uncertain significance,0,188.0,1.979411019776041,0,2.3000000000000003,0
+NM_004985.5(KRAS):c.119A>G (p.Tyr40Cys),Y,40.0,C,Uncertain significance,0,40.0,0.2580186686648155,0,3.8,0
+NM_033360.4(KRAS):c.563T>A (p.Ile188Lys),I,188.0,K,Uncertain significance,0,188.0,1.979411019776041,0,8.4,0
+NM_004985.5(KRAS):c.564G>C (p.Met188Ile),M,188.0,I,Uncertain significance,0,188.0,1.979411019776041,0,2.6,0
+NM_004985.5(KRAS):c.473C>G (p.Thr158Arg),T,158.0,R,Uncertain significance,0,158.0,-0.0,0,3.8,0
+NM_004985.5(KRAS):c.396C>G (p.Asp132Glu),D,132.0,E,Uncertain significance,0,132.0,0.998363672593813,0,0.0,0
+NM_004985.5(KRAS):c.204G>C (p.Arg68Ser),R,68.0,S,Pathogenic/Likely pathogenic,1,68.0,-0.0,1,3.7,0
+NM_004985.5(KRAS):c.59C>T (p.Thr20Met),T,20.0,M,Likely pathogenic,1,20.0,-0.0,0,2.5999999999999996,0
+NM_004985.5(KRAS):c.388G>C (p.Ala130Pro),A,130.0,P,Uncertain significance,0,130.0,-0.0,0,3.4000000000000004,0
+NM_004985.5(KRAS):c.194G>C (p.Ser65Thr),S,65.0,T,Uncertain significance,0,65.0,-0.0,0,0.10000000000000009,0
+NM_004985.5(KRAS):c.85G>A (p.Val29Met),V,29.0,M,Uncertain significance,0,29.0,-0.0,0,2.3000000000000003,0
+NM_033360.4(KRAS):c.461A>G (p.Asp154Gly),D,154.0,G,Uncertain significance,0,154.0,-0.0,0,3.1,0
+NM_004985.5(KRAS):c.182_183delinsGT (p.Gln61Arg),Q,61.0,R,Pathogenic,1,61.0,-0.0,1,1.0,0
+NM_004985.5(KRAS):c.350A>G (p.Lys117Arg),K,117.0,R,Likely pathogenic,1,117.0,0.2761954276479391,0,0.6000000000000001,0
+NM_004985.5(KRAS):c.26T>C (p.Val9Ala),V,9.0,A,Uncertain significance,0,9.0,-0.0,1,2.4000000000000004,0
+NM_004985.5(KRAS):c.158T>G (p.Leu53Trp),L,53.0,W,Likely pathogenic,1,53.0,-0.0,0,4.7,0
+NM_004985.5(KRAS):c.50G>C (p.Ser17Thr),S,17.0,T,Uncertain significance,0,17.0,-0.0,0,0.10000000000000009,0
+NM_004985.5(KRAS):c.112G>A (p.Asp38Asn),D,38.0,N,Uncertain significance,0,38.0,0.2580186686648155,0,0.0,0
+NM_033360.4(KRAS):c.182A>C (p.Gln61Pro),Q,61.0,P,Uncertain significance,0,61.0,-0.0,1,1.9,0
+NM_004985.5(KRAS):c.274G>A (p.Asp92Asn),D,92.0,N,Uncertain significance,0,92.0,-0.0,0,0.0,0
+NM_004985.5(KRAS):c.151T>G (p.Cys51Gly),C,51.0,G,Uncertain significance,0,51.0,-0.0,0,2.9,0
+NM_004985.5(KRAS):c.307G>T (p.Val103Phe),V,103.0,F,Uncertain significance,0,103.0,-0.0,1,1.4000000000000004,0
+NM_004985.5(KRAS):c.368G>T (p.Arg123Ile),R,123.0,I,Uncertain significance,0,123.0,0.2761954276479391,0,9.0,0
+NM_004985.5(KRAS):c.259A>G (p.Thr87Ala),T,87.0,A,Uncertain significance,0,87.0,1.4127413029424614,0,2.5,0
+NM_004985.5(KRAS):c.413G>C (p.Gly138Ala),G,138.0,A,Uncertain significance,0,138.0,-0.0,0,2.2,1
+NM_004985.5(KRAS):c.488T>C (p.Ile163Thr),I,163.0,T,Uncertain significance,0,163.0,-0.0,0,5.2,0
+NM_004985.5(KRAS):c.202A>T (p.Arg68Trp),R,68.0,W,Likely pathogenic,1,68.0,-0.0,1,3.6,0
+NM_004985.5(KRAS):c.350A>C (p.Lys117Thr),K,117.0,T,Likely pathogenic,1,117.0,0.2761954276479391,0,3.2,0
+NM_004985.5(KRAS):c.548C>G (p.Thr183Arg),T,183.0,R,Uncertain significance,0,183.0,2.1464393446710157,0,3.8,0
+NM_004985.5(KRAS):c.331A>G (p.Met111Val),M,111.0,V,Uncertain significance,0,111.0,-0.0,0,2.3000000000000003,0
+NM_004985.5(KRAS):c.136A>G (p.Ile46Val),I,46.0,V,Uncertain significance,0,46.0,-0.0,0,0.2999999999999998,0
+NM_004985.5(KRAS):c.202A>G (p.Arg68Gly),R,68.0,G,Likely pathogenic,1,68.0,-0.0,1,4.1,0
+NM_004985.5(KRAS):c.510G>C (p.Met170Ile),M,170.0,I,Uncertain significance,0,170.0,-0.0,0,2.6,0
+NM_004985.5(KRAS):c.556G>A (p.Val186Ile),V,186.0,I,Uncertain significance,0,186.0,-0.0,0,0.2999999999999998,0
+NM_004985.5(KRAS):c.373G>A (p.Val125Ile),V,125.0,I,Uncertain significance,0,125.0,-0.0,0,0.2999999999999998,0
+NM_004985.5(KRAS):c.548C>A (p.Thr183Lys),T,183.0,K,Uncertain significance,0,183.0,2.1464393446710157,0,3.2,0
+NM_004985.5(KRAS):c.441G>T (p.Lys147Asn),K,147.0,N,Likely pathogenic,1,147.0,-0.0,0,0.3999999999999999,0
+NM_004985.5(KRAS):c.467T>C (p.Phe156Ser),F,156.0,S,Pathogenic,1,156.0,-0.0,0,3.5999999999999996,0
+NM_004985.5(KRAS):c.547A>G (p.Thr183Ala),T,183.0,A,Uncertain significance,0,183.0,2.1464393446710157,0,2.5,0
+NM_004985.5(KRAS):c.152G>C (p.Cys51Ser),C,51.0,S,Uncertain significance,0,51.0,-0.0,0,3.3,0
+NM_004985.5(KRAS):c.479T>G (p.Val160Gly),V,160.0,G,Uncertain significance,0,160.0,-0.0,0,4.6000000000000005,0
+NM_004985.5(KRAS):c.101C>A (p.Pro34Gln),P,34.0,Q,Likely pathogenic,1,34.0,-0.0,1,1.9,0
+NM_033360.4(KRAS):c.461A>T (p.Asp154Val),D,154.0,V,Uncertain significance,0,154.0,-0.0,0,7.7,0
+NM_004985.5(KRAS):c.148A>C (p.Thr50Pro),T,50.0,P,Likely pathogenic,1,50.0,-0.0,0,0.9000000000000001,0
+NM_004985.5(KRAS):c.98A>G (p.Asp33Gly),D,33.0,G,Uncertain significance,0,33.0,-0.0,0,3.1,0
+NM_004985.5(KRAS):c.106A>G (p.Ile36Val),I,36.0,V,Uncertain significance,0,36.0,-0.0,0,0.2999999999999998,0
+NM_004985.5(KRAS):c.20T>A (p.Val7Glu),V,7.0,E,Likely pathogenic,1,7.0,-0.0,0,7.7,0
+NM_004985.5(KRAS):c.187G>A (p.Glu63Lys),E,63.0,K,Uncertain significance,0,63.0,-0.0,1,0.3999999999999999,0
+NM_004985.5(KRAS):c.380C>G (p.Thr127Arg),T,127.0,R,Uncertain significance,0,127.0,0.5489544344250401,0,3.8,0
+NM_004985.5(KRAS):c.506A>G (p.Lys169Arg),K,169.0,R,Uncertain significance,0,169.0,1.615250265088252,0,0.6000000000000001,0
+NM_004985.5(KRAS):c.121A>G (p.Arg41Gly),R,41.0,G,Uncertain significance,0,41.0,0.2580186686648155,0,4.1,0
+NM_004985.5(KRAS):c.175_176delinsTT (p.Ala59Leu),A,59.0,L,Likely pathogenic,1,59.0,-0.0,1,1.9999999999999998,0
+NM_033360.4(KRAS):c.560T>C (p.Ile187Thr),I,187.0,T,Uncertain significance,0,187.0,2.002755067189044,0,5.2,0
+NM_004985.5(KRAS):c.519_520inv (p.Gly174Ser),G,174.0,S,Uncertain significance,0,174.0,2.498296588930315,0,0.4,1
+NM_004985.5(KRAS):c.443C>G (p.Thr148Arg),T,148.0,R,Uncertain significance,0,148.0,-0.0,0,3.8,0
+NM_004985.5(KRAS):c.563T>C (p.Met188Thr),M,188.0,T,Uncertain significance,0,188.0,1.979411019776041,0,2.5999999999999996,0
+NM_004985.5(KRAS):c.283C>A (p.His95Asn),H,95.0,N,Uncertain significance,0,95.0,1.829032892968444,1,0.2999999999999998,0
+NM_004985.5(KRAS):c.418C>T (p.Pro140Ser),P,140.0,S,Uncertain significance,0,140.0,0.2761954276479391,0,0.8,0
+NM_004985.5(KRAS):c.13A>C (p.Lys5Gln),K,5.0,Q,Likely pathogenic,1,5.0,-0.0,0,0.3999999999999999,0
+NM_004985.5(KRAS):c.269T>A (p.Phe90Tyr),F,90.0,Y,Uncertain significance,0,90.0,-0.0,0,4.1,0
+NM_004985.5(KRAS):c.325G>A (p.Val109Ile),V,109.0,I,Uncertain significance,0,109.0,-0.0,0,0.2999999999999998,0
+NM_004985.5(KRAS):c.440A>T (p.Lys147Met),K,147.0,M,Likely pathogenic,1,147.0,-0.0,0,5.8,0
+NM_004985.5(KRAS):c.283C>T (p.His95Tyr),H,95.0,Y,Uncertain significance,0,95.0,1.829032892968444,1,1.9000000000000001,0
+NM_004985.5(KRAS):c.153T>G (p.Cys51Trp),C,51.0,W,Uncertain significance,0,51.0,-0.0,0,3.4,0
+NM_004985.5(KRAS):c.4A>C (p.Thr2Pro),T,2.0,P,Uncertain significance,0,2.0,-0.0,0,0.9000000000000001,0
+NM_004985.5(KRAS):c.326T>A (p.Val109Glu),V,109.0,E,Uncertain significance,0,109.0,-0.0,0,7.7,0
+NM_004985.5(KRAS):c.365C>G (p.Ser122Cys),S,122.0,C,Uncertain significance,0,122.0,1.448815635725185,0,3.3,0
+NM_004985.5(KRAS):c.230G>T (p.Gly77Val),G,77.0,V,Uncertain significance,0,77.0,-0.0,0,4.6000000000000005,1
+NM_004985.5(KRAS):c.95A>C (p.Tyr32Ser),Y,32.0,S,Uncertain significance,0,32.0,-0.0,0,0.5,0
+NM_004985.5(KRAS):c.90C>A (p.Asp30Glu),D,30.0,E,Uncertain significance,0,30.0,-0.0,0,0.0,0
+NM_004985.5(KRAS):c.84T>A (p.Phe28Leu),F,28.0,L,Uncertain significance,0,28.0,-0.0,0,1.0,0
+NM_004985.5(KRAS):c.80A>T (p.His27Leu),H,27.0,L,Uncertain significance,0,27.0,-0.0,0,7.0,0
+NM_004985.5(KRAS):c.80A>G (p.His27Arg),H,27.0,R,Uncertain significance,0,27.0,-0.0,0,1.2999999999999998,0
+NM_004985.5(KRAS):c.77A>C (p.Asn26Thr),N,26.0,T,Uncertain significance,0,26.0,-0.0,0,2.8,0
+NM_004985.5(KRAS):c.74A>T (p.Gln25Leu),Q,25.0,L,Uncertain significance,0,25.0,-0.0,0,7.3,0
+NM_004985.5(KRAS):c.10T>A (p.Tyr4Asn),Y,4.0,N,Uncertain significance,0,4.0,-0.0,0,2.2,0
+NM_004985.5(KRAS):c.65A>C (p.Gln22Pro),Q,22.0,P,Uncertain significance,0,22.0,-0.0,0,1.9,0
+NM_004985.5(KRAS):c.62T>A (p.Ile21Lys),I,21.0,K,Uncertain significance,0,21.0,-0.0,0,8.4,0
+NM_004985.5(KRAS):c.5C>G (p.Thr2Ser),T,2.0,S,Uncertain significance,0,2.0,-0.0,0,0.10000000000000009,0
+NM_004985.5(KRAS):c.50G>T (p.Ser17Ile),S,17.0,I,Uncertain significance,0,17.0,-0.0,0,5.3,0
+NM_004985.5(KRAS):c.43G>T (p.Gly15Cys),G,15.0,C,Uncertain significance,0,15.0,-0.0,0,2.9,1
+NM_004985.5(KRAS):c.31G>T (p.Ala11Ser),A,11.0,S,Uncertain significance,0,11.0,-0.0,1,2.6,0
+NM_004985.5(KRAS):c.16C>T (p.Leu6Phe),L,6.0,F,Uncertain significance,0,6.0,-0.0,0,1.0,0
+NM_004985.5(KRAS):c.11A>T (p.Tyr4Phe),Y,4.0,F,Uncertain significance,0,4.0,-0.0,0,4.1,0
+NM_004985.5(KRAS):c.107T>A (p.Ile36Lys),I,36.0,K,Uncertain significance,0,36.0,-0.0,0,8.4,0
+NM_004985.5(KRAS):c.33_34delinsCT (p.Gly12Cys),G,12.0,C,Pathogenic,1,12.0,0.2580186686648155,1,2.9,1
+NM_004985.5(KRAS):c.53C>T (p.Ala18Val),A,18.0,V,Pathogenic,1,18.0,-0.0,0,2.4000000000000004,0
+NM_004985.5(KRAS):c.36_37delinsGC (p.Gly13Arg),G,13.0,R,Pathogenic,1,13.0,-0.0,1,4.1,1
+NM_004985.5(KRAS):c.401C>G (p.Ala134Gly),A,134.0,G,Uncertain significance,0,134.0,-0.0,0,2.2,0
+NM_004985.5(KRAS):c.229G>T (p.Gly77Cys),G,77.0,C,Likely pathogenic,1,77.0,-0.0,0,2.9,1
+NM_004985.5(KRAS):c.324T>G (p.Asp108Glu),D,108.0,E,Uncertain significance,0,108.0,0.2761954276479391,0,0.0,0
+NM_004985.5(KRAS):c.332T>C (p.Met111Thr),M,111.0,T,Uncertain significance,0,111.0,-0.0,0,2.5999999999999996,0
+NM_004985.5(KRAS):c.536A>G (p.Lys179Arg),K,179.0,R,Uncertain significance,0,179.0,1.7128876215181603,0,0.6000000000000001,0
+NM_004985.5(KRAS):c.482G>A (p.Arg161Gln),R,161.0,Q,Uncertain significance,0,161.0,-0.0,0,1.0,0
+NM_004985.5(KRAS):c.76A>C (p.Asn26His),N,26.0,H,Uncertain significance,0,26.0,-0.0,0,0.2999999999999998,0
+NM_004985.5(KRAS):c.250A>G (p.Ile84Val),I,84.0,V,Uncertain significance,0,84.0,0.2580186686648155,0,0.2999999999999998,0
+NM_004985.5(KRAS):c.516A>C (p.Lys172Asn),K,172.0,N,Uncertain significance,0,172.0,1.4519076150714063,0,0.3999999999999999,0
+NM_004985.5(KRAS):c.346A>C (p.Asn116His),N,116.0,H,Pathogenic,1,116.0,-0.0,0,0.2999999999999998,0
+NM_004985.5(KRAS):c.229G>A (p.Gly77Ser),G,77.0,S,Uncertain significance,0,77.0,-0.0,0,0.4,1
+NM_004985.5(KRAS):c.322G>T (p.Asp108Tyr),D,108.0,Y,Uncertain significance,0,108.0,0.2761954276479391,0,2.2,0
+NM_004985.5(KRAS):c.58A>G (p.Thr20Ala),T,20.0,A,Uncertain significance,0,20.0,-0.0,0,2.5,0
+NM_004985.5(KRAS):c.74A>G (p.Gln25Arg),Q,25.0,R,Uncertain significance,0,25.0,-0.0,0,1.0,0
+NM_004985.5(KRAS):c.22G>A (p.Val8Ile),V,8.0,I,Uncertain significance,0,8.0,-0.0,0,0.2999999999999998,0
+NM_004985.5(KRAS):c.19G>A (p.Val7Met),V,7.0,M,Uncertain significance,0,7.0,-0.0,0,2.3000000000000003,0
+NM_004985.5(KRAS):c.352T>C (p.Cys118Arg),C,118.0,R,Uncertain significance,0,118.0,0.2761954276479391,0,7.0,0
+NM_004985.5(KRAS):c.388_389delinsAT (p.Ala130Ile),A,130.0,I,Uncertain significance,0,130.0,-0.0,0,2.7,0
+NM_004985.5(KRAS):c.16C>G (p.Leu6Val),L,6.0,V,Uncertain significance,0,6.0,-0.0,0,0.40000000000000036,0
+NM_033360.4(KRAS):c.559A>G (p.Ile187Val),I,187.0,V,Uncertain significance,0,187.0,2.002755067189044,0,0.2999999999999998,0
+NM_004985.5(KRAS):c.214A>C (p.Met72Leu),M,72.0,L,Pathogenic,1,72.0,-0.0,1,1.9,0
+NM_004985.5(KRAS):c.190T>A (p.Tyr64Asn),Y,64.0,N,Uncertain significance,0,64.0,-0.0,0,2.2,0
+NM_004985.5(KRAS):c.196G>T (p.Ala66Ser),A,66.0,S,Uncertain significance,0,66.0,-0.0,0,2.6,0
+NM_004985.5(KRAS):c.191A>C (p.Tyr64Ser),Y,64.0,S,Uncertain significance,0,64.0,-0.0,0,0.5,0
+NM_004985.5(KRAS):c.461A>G (p.Asp154Gly),D,154.0,G,Likely pathogenic,1,154.0,-0.0,0,3.1,0
+NM_033360.4(KRAS):c.458A>C (p.Glu153Ala),E,153.0,A,Likely pathogenic,1,153.0,0.9182958340544896,0,5.3,0
+NM_004985.5(KRAS):c.221C>T (p.Thr74Ile),T,74.0,I,Likely pathogenic,1,74.0,-0.0,0,5.2,0
+NM_004985.5(KRAS):c.164T>G (p.Ile55Ser),I,55.0,S,Uncertain significance,0,55.0,-0.0,0,5.3,0
+NM_004985.5(KRAS):c.487A>G (p.Ile163Val),I,163.0,V,Uncertain significance,0,163.0,-0.0,0,0.2999999999999998,0
+NM_033360.4(KRAS):c.189G>T (p.Glu63Asp),E,63.0,D,Uncertain significance,0,63.0,-0.0,1,0.0,0
+NM_033360.4(KRAS):c.140A>G (p.Asp47Gly),D,47.0,G,Uncertain significance,0,47.0,-0.0,0,3.1,0
+NM_033360.4(KRAS):c.400G>A (p.Ala134Thr),A,134.0,T,Uncertain significance,0,134.0,-0.0,0,2.5,0
+NM_033360.4(KRAS):c.148A>G (p.Thr50Ala),T,50.0,A,Uncertain significance,0,50.0,-0.0,0,2.5,0
+NM_033360.4(KRAS):c.154C>T (p.Leu52Phe),L,52.0,F,Uncertain significance,0,52.0,-0.0,0,1.0,0
+NM_033360.4(KRAS):c.44G>T (p.Gly15Val),G,15.0,V,Likely pathogenic,1,15.0,-0.0,0,4.6000000000000005,1
+NM_033360.4(KRAS):c.371C>T (p.Thr124Ile),T,124.0,I,Uncertain significance,0,124.0,0.7228578977329688,0,5.2,0
+NM_033360.4(KRAS):c.194G>T (p.Ser65Ile),S,65.0,I,Likely pathogenic,1,65.0,-0.0,0,5.3,0
+NM_033360.4(KRAS):c.440A>G (p.Lys147Arg),K,147.0,R,Pathogenic,1,147.0,-0.0,0,0.6000000000000001,0
+NM_033360.4(KRAS):c.64C>A (p.Gln22Lys),Q,22.0,K,Pathogenic/Likely pathogenic,1,22.0,-0.0,0,0.3999999999999999,0
+NM_033360.4(KRAS):c.57G>T (p.Leu19Phe),L,19.0,F,Likely pathogenic,1,19.0,-0.0,0,1.0,0
+NM_033360.4(KRAS):c.351A>C (p.Lys117Asn),K,117.0,N,Pathogenic,1,117.0,0.2761954276479391,0,0.3999999999999999,0
+NM_033360.4(KRAS):c.351A>T (p.Lys117Asn),K,117.0,N,Likely pathogenic,1,117.0,0.2761954276479391,0,0.3999999999999999,0
+NM_033360.4(KRAS):c.436G>C (p.Ala146Pro),A,146.0,P,Pathogenic/Likely pathogenic,1,146.0,-0.0,0,3.4000000000000004,0
+NM_004985.5(KRAS):c.437C>T (p.Ala146Val),A,146.0,V,Pathogenic/Likely pathogenic,1,146.0,-0.0,0,2.4000000000000004,0
+NM_033360.4(KRAS):c.15A>C (p.Lys5Asn),K,5.0,N,Pathogenic,1,5.0,-0.0,0,0.3999999999999999,0
+NM_004985.5(KRAS):c.211T>G (p.Tyr71Asp),Y,71.0,D,Likely pathogenic,1,71.0,-0.0,0,2.2,0
+NM_033360.4(KRAS):c.175G>T (p.Ala59Ser),A,59.0,S,Pathogenic/Likely pathogenic,1,59.0,-0.0,1,2.6,0
+NM_004985.5(KRAS):c.57G>C (p.Leu19Phe),L,19.0,F,Pathogenic,1,19.0,-0.0,0,1.0,0
+NM_004985.5(KRAS):c.470A>G (p.Tyr157Cys),Y,157.0,C,Uncertain significance,0,157.0,-0.0,0,3.8,0
+NM_033360.4(KRAS):c.76A>T (p.Asn26Tyr),N,26.0,Y,Uncertain significance,0,26.0,-0.0,0,2.2,0
+NM_033360.4(KRAS):c.389C>T (p.Ala130Val),A,130.0,V,Uncertain significance,0,130.0,-0.0,0,2.4000000000000004,0
+NM_004985.5(KRAS):c.508A>T (p.Met170Leu),M,170.0,L,Uncertain significance,0,170.0,-0.0,0,1.9,0
+NM_033360.4(KRAS):c.148A>T (p.Thr50Ser),T,50.0,S,Uncertain significance,0,50.0,-0.0,0,0.10000000000000009,0
+NM_004985.5(KRAS):c.214A>T (p.Met72Leu),M,72.0,L,Pathogenic/Likely pathogenic,1,72.0,-0.0,1,1.9,0
+NM_004985.5(KRAS):c.181C>A (p.Gln61Lys),Q,61.0,K,Pathogenic,1,61.0,-0.0,1,0.3999999999999999,0
+NM_004985.5(KRAS):c.108A>G (p.Ile36Met),I,36.0,M,Pathogenic/Likely pathogenic,1,36.0,-0.0,0,2.6,0
+NM_004985.5(KRAS):c.179G>T (p.Gly60Val),G,60.0,V,Pathogenic/Likely pathogenic,1,60.0,-0.0,1,4.6000000000000005,1
+NM_004985.5(KRAS):c.290G>A (p.Arg97Lys),R,97.0,K,Likely pathogenic,1,97.0,-0.0,0,0.6000000000000001,0
+NM_004985.5(KRAS):c.466T>A (p.Phe156Ile),F,156.0,I,Pathogenic,1,156.0,-0.0,0,1.7000000000000002,0
+NM_033360.4(KRAS):c.347A>G (p.Asn116Ser),N,116.0,S,Likely pathogenic,1,116.0,-0.0,0,2.7,0
+NM_004985.5(KRAS):c.491G>A (p.Arg164Gln),R,164.0,Q,Uncertain significance,0,164.0,0.2761954276479391,0,1.0,0
+NM_004985.5(KRAS):c.466T>G (p.Phe156Val),F,156.0,V,Pathogenic/Likely pathogenic,1,156.0,-0.0,0,1.4000000000000004,0
+NM_004985.5(KRAS):c.454G>T (p.Val152Phe),V,152.0,F,Likely pathogenic,1,152.0,0.2761954276479391,0,1.4000000000000004,0
+NM_004985.5(KRAS):c.38G>T (p.Gly13Val),G,13.0,V,Pathogenic,1,13.0,-0.0,1,4.6000000000000005,1
+NM_004985.5(KRAS):c.37G>T (p.Gly13Cys),G,13.0,C,Pathogenic/Likely pathogenic,1,13.0,-0.0,1,2.9,1
+NM_004985.5(KRAS):c.35G>C (p.Gly12Ala),G,12.0,A,Pathogenic/Likely pathogenic,1,12.0,0.2580186686648155,1,2.2,1
+NM_004985.5(KRAS):c.183A>T (p.Gln61His),Q,61.0,H,Pathogenic,1,61.0,-0.0,1,0.2999999999999998,0
+NM_004985.5(KRAS):c.182A>T (p.Gln61Leu),Q,61.0,L,Pathogenic,1,61.0,-0.0,1,7.3,0
+NM_004985.5(KRAS):c.458A>G (p.Asp153Gly),D,153.0,G,Pathogenic/Likely pathogenic,1,153.0,0.9182958340544896,0,3.1,0
+NM_033360.4(KRAS):c.355G>A (p.Asp119Asn),D,119.0,N,Likely pathogenic,1,119.0,0.2761954276479391,0,0.0,0
+NM_004985.5(KRAS):c.101C>T (p.Pro34Leu),P,34.0,L,Pathogenic,1,34.0,-0.0,1,5.4,0
+NM_033360.4(KRAS):c.65A>T (p.Gln22Leu),Q,22.0,L,Likely pathogenic,1,22.0,-0.0,0,7.3,0
+NM_004985.5(KRAS):c.65A>G (p.Gln22Arg),Q,22.0,R,Pathogenic,1,22.0,-0.0,0,1.0,0
+NM_033360.4(KRAS):c.64C>G (p.Gln22Glu),Q,22.0,E,Pathogenic,1,22.0,-0.0,0,0.0,0
+NM_033360.4(KRAS):c.439A>G (p.Lys147Glu),K,147.0,E,Pathogenic/Likely pathogenic,1,147.0,-0.0,0,0.3999999999999999,0
+NM_033360.4(KRAS):c.211T>C (p.Tyr71His),Y,71.0,H,Pathogenic,1,71.0,-0.0,0,1.9000000000000001,0
+NM_033360.4(KRAS):c.178G>A (p.Gly60Ser),G,60.0,S,Pathogenic,1,60.0,-0.0,1,0.4,1
+NM_004985.5(KRAS):c.13A>G (p.Lys5Glu),K,5.0,E,Pathogenic/Likely pathogenic,1,5.0,-0.0,0,0.3999999999999999,0
+NM_033360.4(KRAS):c.15A>T (p.Lys5Asn),K,5.0,N,Pathogenic,1,5.0,-0.0,0,0.3999999999999999,0
+NM_004985.5(KRAS):c.37G>C (p.Gly13Arg),G,13.0,R,Pathogenic,1,13.0,-0.0,1,4.1,1
+NM_004985.5(KRAS):c.101C>G (p.Pro34Arg),P,34.0,R,Pathogenic/Likely pathogenic,1,34.0,-0.0,1,2.9,0
+NM_004985.5(KRAS):c.40G>A (p.Val14Ile),V,14.0,I,Pathogenic,1,14.0,-0.0,0,0.2999999999999998,0
+NM_004985.5(KRAS):c.173C>T (p.Thr58Ile),T,58.0,I,Pathogenic,1,58.0,-0.0,1,5.2,0
+NM_004985.5(KRAS):c.458A>T (p.Asp153Val),D,153.0,V,Pathogenic,1,153.0,0.9182958340544896,0,7.7,0
+NM_004985.5(KRAS):c.178G>C (p.Gly60Arg),G,60.0,R,Pathogenic,1,60.0,-0.0,1,4.1,1
+NM_004985.5(KRAS):c.34G>A (p.Gly12Ser),G,12.0,S,Pathogenic,1,12.0,0.2580186686648155,1,0.4,1
+NM_004985.5(KRAS):c.35G>T (p.Gly12Val),G,12.0,V,Pathogenic,1,12.0,0.2580186686648155,1,4.6000000000000005,1
+NM_004985.5(KRAS):c.35G>A (p.Gly12Asp),G,12.0,D,Pathogenic/Likely pathogenic,1,12.0,0.2580186686648155,1,3.1,1
+NM_033360.4(KRAS):c.175G>A (p.Ala59Thr),A,59.0,T,Pathogenic,1,59.0,-0.0,1,2.5,0
+NM_004985.5(KRAS):c.38G>A (p.Gly13Asp),G,13.0,D,Pathogenic,1,13.0,-0.0,1,3.1,1
+NM_004985.5(KRAS):c.34G>C (p.Gly12Arg),G,12.0,R,Pathogenic/Likely pathogenic,1,12.0,0.2580186686648155,1,4.1,1
+NM_004985.5(KRAS):c.34G>T (p.Gly12Cys),G,12.0,C,Likely pathogenic,1,12.0,0.2580186686648155,1,2.9,1
